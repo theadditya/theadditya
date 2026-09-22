@@ -10,7 +10,7 @@
 <!-- ======================================================= -->
 <div align="center">
   <a href="https://github.com/theadditya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Bridging+code%2C+systems%2C+and+human+impact;Full-Stack+Engineer+%7C+Python+%7C+C%2FC%2B%2B+%7C+Flask;Creator+of+Recordly+%26+Krishi+Mitra;Crafting+scalable+web+apps+%26+Linux+utilities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Bridging+code%2C+systems%2C+and+human+impact;Full-Stack+Engineer+%7C+Python+%7C+C%2FC%2B%2B+%7C+Flask;Crafting+scalable+web+apps+%26+Linux+utilities;Exploring+systems%2C+algorithms%2C+and+modern+UI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -78,9 +78,9 @@ Status     : 🚀 Building impactful open-source tools & scalable architectures
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎥 <a href="https://github.com/theadditya/recordly">Recordly</a></h3>
-      <p align="center">A high-performance desktop screen recording app packaged for Linux with modern workflows.</p>
-      <p align="center"><code>TypeScript</code> • <code>Linux</code> • <code>AppImage</code></p>
+      <h3 align="center">⚔️ <a href="https://github.com/theadditya/THEOMACHY">THEOMACHY</a></h3>
+      <p align="center">BUILD. ASSEMBLE. DOMINATE. Interactive web application and gaming design experience.</p>
+      <p align="center"><code>CSS3</code> • <code>JavaScript</code> • <code>Web Design</code></p>
     </td>
     <td width="50%">
       <h3 align="center">🌾 <a href="https://github.com/theadditya/KrishiMitra">Krishi Mitra</a></h3>
