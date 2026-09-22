@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=220&section=header&text=Additya%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Builder%20%7C%20Systems%20%26%20Web&descSize=20&descAlignY=68" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/theadditya/theadditya/main/assets/header.svg" width="100%" alt="Additya Pramanik Header" />
 </p>
 
 <!-- ======================================================= -->
@@ -122,9 +122,10 @@ Status     : 🚀 Building impactful open-source tools & scalable architectures
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/theadditya/theadditya/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- ======================================================= -->
-<!-- FOOTER WAVE -->
-<!-- ======================================================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=35,24,12,1&height=120&section=footer" width="100%" alt="Footer" />
-</p>
+<div align="center">
+
+---
+
+*“Bridging code, systems, and human impact.”*
+
+</div>

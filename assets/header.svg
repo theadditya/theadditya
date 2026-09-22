@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="glowLeft" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#9333ea" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#9333ea" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#334155" stroke-width="0.7" stroke-opacity="0.3" />
+      <circle cx="30" cy="0" r="1.2" fill="#38bdf8" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 46px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .badge-text {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      fill: #38bdf8;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      fill: #94a3b8;
+      letter-spacing: 0.2px;
+    }
+    .tagline {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #64748b;
+    }
+  </style>
+
+  <!-- Container Box with Rounded Corners & Sleek Border -->
+  <rect x="2" y="2" width="896" height="236" rx="18" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="1.5" />
+
+  <!-- Ambient Glows -->
+  <rect x="2" y="2" width="896" height="236" rx="18" fill="url(#glowLeft)" />
+  <rect x="2" y="2" width="896" height="236" rx="18" fill="url(#glowRight)" />
+
+  <!-- Background Grid -->
+  <rect x="2" y="2" width="896" height="236" rx="18" fill="url(#grid)" />
+
+  <!-- Status / Pill Badge -->
+  <g transform="translate(450, 48)">
+    <rect x="-140" y="-14" width="280" height="28" rx="14" fill="#0f172a" fill-opacity="0.8" stroke="#1e293b" stroke-width="1" />
+    <circle cx="-120" cy="0" r="4" fill="#10b981" />
+    <text x="-106" y="4" class="badge-text">FULL-STACK &amp; SYSTEMS BUILDER</text>
+  </g>
+
+  <!-- Main Name Header -->
+  <text x="450" y="125" text-anchor="middle" class="title" fill="url(#textGradient)">
+    Additya Pramanik
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="162" text-anchor="middle" class="subtitle">
+    Bridging code, systems, and human impact.
+  </text>
+
+  <!-- Tech Breadcrumb -->
+  <text x="450" y="195" text-anchor="middle" class="tagline">
+    [ Python • C/C++ • Flask • TypeScript • Docker • Linux ]
+  </text>
+
+  <!-- Decorative Corner Accents -->
+  <path d="M 25 45 L 25 25 L 45 25" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 875 45 L 875 25 L 855 25" fill="none" stroke="#c084fc" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 25 195 L 25 215 L 45 215" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 875 195 L 875 215 L 855 215" fill="none" stroke="#c084fc" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>
