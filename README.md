@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theadditya/theadditya/main/assets/header.svg" width="100%" alt="Additya Pramanik Header" />
+  <img src="./assets/header.svg" width="100%" alt="Additya Pramanik Header" />
 </p>
 
 <!-- ======================================================= -->
