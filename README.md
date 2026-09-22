@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 System Information
+### ◈ System Architecture
 
 ```bash
 theadditya@workstation:~$ neofetch
@@ -45,12 +45,12 @@ Core       : C, C++, Python, JavaScript, TypeScript, Dart
 Frameworks : Flask, React, React Native, Node.js
 Tools      : Docker, Linux Kernel / Bash, Git, Firebase
 Philosophy : "Bridging code, systems, and human impact."
-Status     : 🚀 Building impactful open-source tools & scalable architectures
+Status     : [Active] Engineering scalable software & open-source architectures
 ```
 
 ---
 
-### 🛠️ Tech Arsenal
+### ✦ Core Stack & Technologies
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -73,29 +73,29 @@ Status     : 🚀 Building impactful open-source tools & scalable architectures
 
 ---
 
-### 🚀 Highlighted Work
+### ❖ Selected Works
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚔️ <a href="https://github.com/theadditya/THEOMACHY">THEOMACHY</a></h3>
+      <h3 align="center"><code>01 //</code> <a href="https://github.com/theadditya/THEOMACHY">THEOMACHY</a></h3>
       <p align="center">BUILD. ASSEMBLE. DOMINATE. Interactive web application and gaming design experience.</p>
       <p align="center"><code>CSS3</code> • <code>JavaScript</code> • <code>Web Design</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌾 <a href="https://github.com/theadditya/KrishiMitra">Krishi Mitra</a></h3>
+      <h3 align="center"><code>02 //</code> <a href="https://github.com/theadditya/KrishiMitra">Krishi Mitra</a></h3>
       <p align="center">AI-driven agricultural ecosystem mapping plant diseases to accessible community marketplaces.</p>
       <p align="center"><code>Python</code> • <code>AI / ML</code> • <code>Firebase</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">♻️ <a href="https://github.com/theadditya/nirmal-bharat">Nirmal Bharat</a></h3>
+      <h3 align="center"><code>03 //</code> <a href="https://github.com/theadditya/nirmal-bharat">Nirmal Bharat</a></h3>
       <p align="center">Digital marketplace and waste management interface advocating for circular recycling economies.</p>
       <p align="center"><code>JavaScript</code> • <code>API Integration</code> • <code>Web</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 <a href="https://github.com/theadditya/Portfolio">Portfolio</a></h3>
+      <h3 align="center"><code>04 //</code> <a href="https://github.com/theadditya/Portfolio">Portfolio</a></h3>
       <p align="center">Personal engineering portfolio featuring deliberate typography, spine progress, and interactive reveal animations.</p>
       <p align="center"><code>CSS</code> • <code>JavaScript</code> • <code>UI/UX</code></p>
     </td>
@@ -104,7 +104,7 @@ Status     : 🚀 Building impactful open-source tools & scalable architectures
 
 ---
 
-### 📈 GitHub Streak & Consistency
+### ◈ Activity & Consistency
 
 <div align="center">
   <a href="https://github.com/theadditya">
@@ -114,7 +114,7 @@ Status     : 🚀 Building impactful open-source tools & scalable architectures
 
 ---
 
-### 🐍 Contribution Activity Graph
+### ⬡ Contribution Matrix
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theadditya/theadditya/output/github-contribution-grid-snake-dark.svg">
